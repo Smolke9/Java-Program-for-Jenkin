@@ -152,6 +152,7 @@ Compiling Java file...
 Running Java program...
 Hello from Jenkins on AWS Ubuntu!
 ```
+![Build Output Screenshot](2.jpg)
 
 ---
 
